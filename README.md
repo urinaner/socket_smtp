@@ -1,17 +1,9 @@
 ## RFC문서 기반의 웹 소켓통신입니다.
 
 라이브러리를 사용하지 않고 제작하였습니다.
-## Folder Structure
+## Examle
 
-The workspace contains two folders by default, where:
+<img width="1060" alt="스크린샷 2023-11-03 오후 5 15 00" src="https://github.com/urinaner/socket_smtp/assets/27186972/9962738d-64de-4736-bb04-7ef9476a4fba">
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 자바기반으로 제작되었습니다.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## 자바기반
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
