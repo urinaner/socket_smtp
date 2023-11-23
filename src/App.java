@@ -8,8 +8,8 @@ public class App {
         try {
             String smtpServer = "smtp.naver.com";
             int smtpPort = 465;
-            String username = "urinaner@naver.com";
-            String password = "wkddudwo123!";
+            String username = "";
+            String password = "";
 
             // 사용자 이름을 UTF-8로 인코딩하여 Base64로 변환
             byte[] usernameBytes = username.getBytes("UTF-8");
